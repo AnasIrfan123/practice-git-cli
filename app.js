@@ -5,3 +5,6 @@ console.log(fullName);
 
 
 alert('Hello world');
+
+console.log('Hello world');
+document.write('again commit');
